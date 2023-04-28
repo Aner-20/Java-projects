@@ -63,7 +63,7 @@ public class Main{
             } catch(Exception e){
                 System.out.println("You have to press 4 if you wanna go back to the menu");
             }
-        }
+        } 
    }
 
    public static void deposit(){
